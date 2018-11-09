@@ -1,1 +1,1 @@
-TP Algorithmique et Optimisation Discrète - Analyse expérimentale du coût et des défauts de localité
+TP Algorithmique et Optimisation Discrète - Génération d'ABR optimale
